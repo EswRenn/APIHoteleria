@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{168A4FBB-D0CA-4DAC-97CE-40F5FE6B25A1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_HOTELERIA/Web.config">
+    <Files>
+      <File FileName="API_HOTELERIA/Web.config" Line="22" Column="22" />
+      <File FileName="API_HOTELERIA/Controllers/ClienteController.cs" />
+      <File FileName="API_HOTELERIA/Models/Cliente/csEstructuraCliente.cs" />
+      <File FileName="API_HOTELERIA/Models/Cliente/csCliente.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API_HOTELERIA" expanded="True">
+            <Node name="API_HOTELERIA" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Cliente" expanded="True" />
+              </Node>
+              <Node name="Web.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API__HOTELERIA PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
